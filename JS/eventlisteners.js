@@ -21,7 +21,7 @@ addEventListener('keydown', (event) => {
 				}
 			}
 			if (player.velocity.y === 0) {
-				player.velocity.y = -25
+				player.velocity.y = -18
 			}
 
 		break
